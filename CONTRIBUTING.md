@@ -11,7 +11,7 @@
 Нужен Node.js. Запуск примера:
 
 ```
-node example.js
+node index.js
 ```
 
 ## Как сообщить об ошибке
